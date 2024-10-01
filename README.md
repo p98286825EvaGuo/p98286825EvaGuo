@@ -29,7 +29,7 @@
 
 ###  🤝🏻 &nbsp;Connect with Me
 <p>
-<a href="www.linkedin.com/in/pei-rong-eva-guo-a69341307"><img src="https://img.shields.io/badge/-Pei%20Rong%20(Eva)%20Guo-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pei-rong-eva-guo-a69341307"><img src="https://img.shields.io/badge/-Pei%20Rong%20(Eva)%20Guo-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:p98286825@gamil.com"><img src="https://img.shields.io/badge/-p98286825@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:f74104074@gs.ncku.edu.tw"><img src="https://img.shields.io/badge/-f74104074@gs.ncku.edu.tw-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/p98286825EvaGuo"><img src="https://img.shields.io/badge/-@p98286825EvaGuo-000000?style=flat-square&logo=github&logoColor=white"/></a>
