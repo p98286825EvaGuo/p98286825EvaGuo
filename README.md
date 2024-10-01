@@ -1,10 +1,10 @@
-<div style="text-align: center">
+<h3 align="center">
 <img height="200" alt="image" src="https://imgur.com/YSRb9Vg.png">
-</div>
+</h3>
 
-<div style="text-align: center">
+<h3 align="center">
 <font size=5><b>- Hi, I'm Pei-Rong (Eva) Guo -</b></font>
-</div>
+</h3>
 
 ### 😊 &nbsp;About Me
 - 🎓 **Senior student in the Department of Computer Science and Information Engineering at National Cheng Kung University (NCKU)**
