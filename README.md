@@ -7,7 +7,7 @@
 </h3>
 
 ### 😊 &nbsp;About Me
-- 🎓 **Senior student in the Department of Computer Science and Information Engineering at National Cheng Kung University (NCKU)**
+- 🎓 **Senior student in the Department of Computer Science and Information Engineering at National Cheng Kung University**
 - 🌱 **A beginner who started learning programming in university**
 - 🎯 **Hopes to become highly skilled one day!**
 - ✨ **Areas of interest**
